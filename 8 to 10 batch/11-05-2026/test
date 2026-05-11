@@ -1,0 +1,97 @@
+<div class="modal fade" id="loginform" data-bs-backdrop="static">
+
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+
+        <div class="modal-content">
+
+            <div class="modal-header">
+
+                <div class="register text-center mx-auto">
+                    <h1>REGISTER</h1>
+                    <h6>singup now and get full access to our app</h6>
+
+                </div>
+
+                <button class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+
+
+
+
+
+                <!--=====term and condition section inside modal body=======  -->
+                <!-- <div class="term-and-condition">
+                
+                <DETAILS id="g12">
+                    <H4>Term and condition</H4>   
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, necessitatibus praesentium. Fugiat culpa error hic voluptate officiis distinctio ratione laborum!</p> 
+                    <hr>
+                    <p >lo
+                        rem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, necessitatibus praesentium. Fugiat culpa error hic voluptate officiis distinctio ratione laborum!</p>
+                        <hr>
+                        <button class="btn btn-danger" 
+                        data-bs-dismiss= "DETAILS" data-bs-target="#g12" >View Details</button> 
+                    </DETAILS>
+                </div>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
+            </div>
+
+
+            <!--========== modal body content form-layout============-->
+
+            <div class="modal-body">
+
+                <div class="input_tags">
+
+
+                    <!-- ===========name section inside modal body======= -->
+
+
+
+
+                    <input type="text" class="name text-center" placeholder="NAME">
+
+                    <hr>
+                    <!-- =========email section inside modal body============ -->
+
+
+                    <input type="email" class="email text-center" placeholder="EMAIL">
+                    <hr>
+
+                    <!-- =====create password section inside modal body=======  -->
+
+                    <input type="password" class="create-password text-center" placeholder="create password">
+                    <hr>
+
+                    <!-- =========confirm password section inside modal body=======  -->
+
+                    <input type="password" class="password text-center" placeholder="Confirm Password">
+
+
+
+
+
+                </div>
+            </div>
+
+            <!-- ============modal footer content================== -->
+
+            <div class="modal-footer">
+
+
+
+                <button type="button" class="btn " data-bs-dismiss="modal">submit</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Fjalla+One&family=Saira:ital,wght@0,100..900;1,100..900&family=Titan+One&display=swap"
+    rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
